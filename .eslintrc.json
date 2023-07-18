@@ -17,5 +17,5 @@
         "eol-last": ["error", "never"],
         "class-methods-use-this": "off",
         "space-before-blocks": "off"
-    }
+    } 
 }
